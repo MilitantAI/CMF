@@ -65,7 +65,7 @@ Minkowski/
   author    = {Petrik, Morgan},
   title     = {Cogenetic Minkowski Functional (CMF)},
   year      = {2026},
-  publisher = {Zenodo},
+  publisher = {Militant.AI},
   version   = {1.0.0},
   doi       = {10.5281/zenodo.20808466},
   url       = {https://doi.org/10.5281/zenodo.20808466}
